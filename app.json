@@ -3,8 +3,7 @@
     "test": {
       "formation": {
         "test": {
-          "quantity": 2,
-          "size": "Standard-1X"
+          "quantity": 2
         }
       },
       "addons": [
